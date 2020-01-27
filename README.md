@@ -1,0 +1,2 @@
+# Unscrambler-Game
+Project for Accelerated Intro to Computer Science I &amp; II course at TCNJ during the Fall 2019 semester. Purpose of the game is to unscramble the randomly chosen word presented to you. If you want this program to run properly you must change the file path to the new file path on your computer on line 22 in Main -> FileInputStream fis = new FileInputStream("C:\\Users\\m_mab\\IdeaProjects\\Project2\\src\\com\\jetbrains\\words.txt");
